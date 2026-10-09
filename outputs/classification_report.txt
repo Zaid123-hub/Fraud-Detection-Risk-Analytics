@@ -1,0 +1,10 @@
+SYNTHETIC DATA DEMO — NOT PRODUCTION PERFORMANCE
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.64      0.77       584
+           1       0.11      0.63      0.19        41
+
+    accuracy                           0.64       625
+   macro avg       0.54      0.64      0.48       625
+weighted avg       0.91      0.64      0.73       625

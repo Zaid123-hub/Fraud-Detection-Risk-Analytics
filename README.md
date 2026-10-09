@@ -8,6 +8,17 @@ The project showcases how data analytics can help identify potentially risky tra
 
 ---
 
+## 🚀 Live Demo
+
+**Try the interactive dashboard here:**
+
+[Fraud Detection & Transaction Risk Analytics](https://fraud-detection-risk-analytics-8g4ynqfbae6eazpoikyl7u.streamlit.app/)
+
+Explore transaction patterns, merchant-category risk rates, and synthetic transaction records using interactive filters.
+
+> Note: This project uses synthetic demonstration data, not real banking transactions.
+
+
 ## Dashboard Preview
 
 ### 1. Dashboard Overview
